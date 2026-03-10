@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "03001234567",
+      "city": "Karachi"
+    },
+    {
+      "id": "2",
+      "name": "Areesha Khan",
+      "email": "areesha@example.com",
+      "phone": "03111234567",
+      "city": "Lahore"
+    },
+    {
+      "id": "3",
+      "name": "Ali Ahmed",
+      "email": "ali@example.com",
+      "phone": "03221234567",
+      "city": "Islamabad"
+    },
+    {
+      "id": "3061",
+      "name": "alishah",
+      "email": "lisha@gmail.com",
+      "phone": "098383883",
+      "city": "karachi"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@example.com",
+      "password": "password123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@example.com",
+      "password": "password456",
+      "role": "editor"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
